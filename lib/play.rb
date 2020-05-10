@@ -41,7 +41,7 @@ end
 
 def play(board)
 
-turnstaken == 0
+turnstaken = 0
 
   until turnstaken == 9
     turn(board)
