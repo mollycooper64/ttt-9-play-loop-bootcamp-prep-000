@@ -39,7 +39,7 @@ end
 #* Accept an argument of a `board`.
 #* Start a loop and call `#turn`.
 
-def move(board)
+def play(board)
 
 turnstaken == 0
 
