@@ -47,3 +47,4 @@ turnstaken == 0
     turn(board)
     turnstaken += 1
   end
+end
